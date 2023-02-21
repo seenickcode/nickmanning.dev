@@ -1,4 +1,4 @@
 [[redirects]]
-  from = "/"
+  from = "*"
   to = "https://nickmanning.xyz"
   status = 200
